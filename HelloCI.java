@@ -3,6 +3,7 @@ public class HelloCI {
        System.out.println("CI/CD pipeline updated successfully!");
         //System.out.println("hello world!");
         System.out.println("hiii");
+        System.out.println("world!");
         
 
     }
